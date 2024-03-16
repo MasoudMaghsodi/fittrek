@@ -1,6 +1,4 @@
-import 'package:fittrek/view/login-screen.dart';
 import 'package:fittrek/view/onboarding-screen.dart';
-import 'package:fittrek/view/welcome-screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 
